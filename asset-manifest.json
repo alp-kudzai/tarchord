@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/tarchord/static/css/main.182c7f34.css",
-    "main.js": "/tarchord/static/js/main.23ca6c03.js",
+    "main.css": "/tarchord/static/css/main.9018ed23.css",
+    "main.js": "/tarchord/static/js/main.e4490fa4.js",
     "static/js/787.1924987f.chunk.js": "/tarchord/static/js/787.1924987f.chunk.js",
+    "static/media/guitar1.jpg": "/tarchord/static/media/guitar1.ca8a0359ec44083d79ce.jpg",
     "index.html": "/tarchord/index.html",
-    "main.182c7f34.css.map": "/tarchord/static/css/main.182c7f34.css.map",
-    "main.23ca6c03.js.map": "/tarchord/static/js/main.23ca6c03.js.map",
+    "main.9018ed23.css.map": "/tarchord/static/css/main.9018ed23.css.map",
+    "main.e4490fa4.js.map": "/tarchord/static/js/main.e4490fa4.js.map",
     "787.1924987f.chunk.js.map": "/tarchord/static/js/787.1924987f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.182c7f34.css",
-    "static/js/main.23ca6c03.js"
+    "static/css/main.9018ed23.css",
+    "static/js/main.e4490fa4.js"
   ]
 }
