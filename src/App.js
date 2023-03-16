@@ -9,9 +9,10 @@ function App() {
     let term = document.getElementById("searchbar").value
     let chordSpace = document.getElementById("ChordSpace")
     let newIframe = document.createElement("iframe")
+    newIframe["class"] = "chordFrames"
     newIframe["src"] = API+term
     newIframe["title"] = "Chords"
-    newIframe["class"] = "chordFrames"
+    
     chordSpace.appendChild(newIframe)
   }
   return (
@@ -20,7 +21,7 @@ function App() {
         <h1 id="TitleBar">Tarchord</h1>
         <h3 id="subtitleBar">Google for Guitar chords</h3>
         <input type="text" id="searchbar"/>
-        <input type="submit" id="submitButton" onClick={submitSearch}/>
+        <button id="submitButton" onClick={submitSearch}>O_O</button>
       </header>
       
       <div id="ChordSpace">
